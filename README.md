@@ -1,4 +1,4 @@
-[![elchivo66's Discord status](https://dsc-readme.tsuni.dev/api/user/870745427966840862?aboutMe=Hopefully+futer+Developer&banner=https%3A%2F%2F64.media.tumblr.com%2F688319467bddf4f9c82054a166bac8e1%2Fe43b0f441d526dcb-72%2Fs500x750%2Ffbb0f99576d076ddbd3daadb628e5c3c234c471d.gif&theme=custom&colorB1=1B6311&colorB2=7C801B&colorB3=B300FF&colorT1=00FF0D&colorT2=000000&width=512)](https://github.com/the-snesler/discord-github-preview)
+[![elchivo66's Discord status](https://dsc-readme.tsuni.dev/api/user/870745427966840862?aboutMe=Hopefully+futer+Developer&theme=custom&colorB1=1B6311&colorB2=7C801B&colorB3=B300FF&colorT1=00FF0D&colorT2=000000&width=512)](https://github.com/the-snesler/discord-github-preview)
 
 <!--
 **yaeo2180/yaeo2180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
