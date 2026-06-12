@@ -1,4 +1,4 @@
-## Hi there 👋
+[![elchivo66's Discord status](https://dsc-readme.tsuni.dev/api/user/870745427966840862?aboutMe=Hopefully+futer+Developer&theme=custom&colorB1=1B6311&colorB2=7C801B&colorB3=B300FF&colorT1=00FF0D&colorT2=000000&width=1024)](https://github.com/the-snesler/discord-github-preview)
 
 <!--
 **yaeo2180/yaeo2180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
